@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Computer Vision development
-- 🌱 I’m currently learning C#, .Net
-- 💬 Ask me about Python, Computer Vision, Machine Learning 
+- 🌱 I’m currently learning ASP.NET
+- 💬 Ask me about C#, .Net, Python, Computer Vision, Machine Learning 
 
 Find me on 👔 [linkedin][linkedin]
   
